@@ -1,4 +1,4 @@
-# Introduction of TypeScript
+# Introduction of TypeScript: Bob Ziroll
 ### Topics covered: 
 - **Basic, literal and custom types**
 - **Optional properties**
